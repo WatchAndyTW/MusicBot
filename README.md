@@ -6,17 +6,17 @@
 [![發布](https://img.shields.io/github/release/jagrosh/MusicBot.svg)](https://github.com/jagrosh/MusicBot/releases/latest)
 [![Discord](https://discordapp.com/api/guilds/147698382092238848/widget.png)](https://discord.gg/0p9LSGoRLu6Pet0k)<br>
 
-A cross-platform Discord music bot with a clean interface, and that is easy to set up and run yourself!
+一個跨平台的Discord音樂機器人，界面乾淨，易於設置和運行！
 
 [![Setup](http://i.imgur.com/VvXYp5j.png)](https://github.com/jagrosh/MusicBot/wiki/Setup)
 
 ## 功能
   * 簡單運行(只要安裝Java和開啟)
-  * 讀取歌曲速度快
+  * 快速讀取歌曲
   * 無須其他金鑰(除了Discord機器人Token)
   * 播放流暢
   * Server-specific setup for the "DJ" role that can moderate the music
-  * 好看的選單
+  * 乾淨の界面
   * 頻道主題=先正播放の音樂名
   * 支援網站多，包含Youtube、SoundCloud等等
   * 支援線上音樂/直播
