@@ -33,4 +33,4 @@ A cross-platform Discord music bot with a clean interface, and that is easy to s
 ![Loading Example...](https://i.imgur.com/kVtTKvS.gif)
 
 ## 設定
-請至 [Setup Page](https://github.com/jagrosh/MusicBot/wiki/Setup) in the wiki to run this bot yourself!
+請至 [官方設定頁(英文)](https://github.com/jagrosh/MusicBot/wiki/Setup) 查看
