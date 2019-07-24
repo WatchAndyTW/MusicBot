@@ -18,8 +18,8 @@ A cross-platform Discord music bot with a clean interface, and that is easy to s
   * Server-specific setup for the "DJ" role that can moderate the music
   * 好看的選單
   * 頻道主題=先正播放の音樂名
-  * Supports many sites, including Youtube, Soundcloud, and more
-  * Supports many online radio/streams
+  * 支援網站多，包含Youtube、SoundCloud等等
+  * 支援線上音樂/直播
   * 支援本地文件
   * Playlist support (both web/youtube, and local)
 
