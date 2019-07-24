@@ -16,8 +16,8 @@ A cross-platform Discord music bot with a clean interface, and that is easy to s
   * 無須其他金鑰(除了Discord機器人Token)
   * 播放流暢
   * Server-specific setup for the "DJ" role that can moderate the music
-  * Clean and beautiful menus
-  * Channel-topic playback bar
+  * 好看的選單
+  * 頻道主題=先正播放の音樂名
   * Supports many sites, including Youtube, Soundcloud, and more
   * Supports many online radio/streams
   * 支援本地文件
