@@ -21,9 +21,9 @@ A cross-platform Discord music bot with a clean interface, and that is easy to s
   * 支援網站多，包含Youtube、SoundCloud等等
   * 支援線上音樂/直播
   * 支援本地文件
-  * Playlist support (both web/youtube, and local)
+  * 支援播放清單(線上、Youtube和本地文件)
 
-## 範例
+## 範例(原版)
 ![Loading Example...](https://i.imgur.com/kVtTKvS.gif)
 
 ## 設定
