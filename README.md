@@ -17,9 +17,9 @@ A cross-platform Discord music bot with a clean interface, and that is easy to s
 [![Setup](http://i.imgur.com/VvXYp5j.png)](https://github.com/jagrosh/MusicBot/wiki/Setup)
 
 ## 功能
-  * Easy to run (just make sure Java is installed, and run!)
-  * Fast loading of songs
-  * No external keys needed (besides a Discord Bot token)
+  * 簡單運行(只要安裝Java和開啟)
+  * 讀取歌曲速度快
+  * 無須其他金鑰(除了Discord機器人Token)
   * Smooth playback
   * Server-specific setup for the "DJ" role that can moderate the music
   * Clean and beautiful menus
