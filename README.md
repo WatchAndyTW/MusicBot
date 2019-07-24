@@ -15,7 +15,7 @@
   * 快速讀取歌曲
   * 無須其他金鑰(除了Discord機器人Token)
   * 播放流暢
-  * Server-specific setup for the "DJ" role that can moderate the music
+  * DJ角色身分組設置
   * 乾淨の界面
   * 頻道主題=先正播放の音樂名
   * 支援網站多，包含Youtube、SoundCloud等等
