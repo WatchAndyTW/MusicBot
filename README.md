@@ -23,7 +23,10 @@
   * 支援本地文件
   * 支援播放清單(線上、Youtube和本地文件)
 
-## 範例(原版)
+## 範例(英文)
+![Loading Example...](https://i.imgur.com/kVtTKvS.gif)
+
+## 範例(中文)
 ![Loading Example...](https://i.imgur.com/kVtTKvS.gif)
 
 ## 設定
